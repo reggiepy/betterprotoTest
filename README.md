@@ -1,4 +1,4 @@
-# python3 udp broadcast
+# python3
 
 [![python version](https://img.shields.io/badge/python-3.7-success.svg?style=flat)](https://github.com/reggiepy/betterprotoTest)
 [![release](https://img.shields.io/github/v/tag/reggiepy/betterprotoTest?color=success&label=release)](https://github.com/reggiepy/betterprotoTest)
