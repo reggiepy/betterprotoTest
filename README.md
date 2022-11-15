@@ -18,9 +18,9 @@ cd betterprotoTest
 
 ```bash
 # run in client server
-python broadcast_client.py -c ls
+python client.py
 # run in server server
-python broadcast_server.py
+python server.py
 ```
 
 ## Architecture
